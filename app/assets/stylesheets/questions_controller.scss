@@ -1,0 +1,26 @@
+// Place all the styles related to the QuestionsController controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+h1{
+  text-align: center;
+}
+.card {
+  width: 500px;
+  margin: 0 auto;
+  display: flex;
+  background-color: #EEEEEE;
+  border-radius: 4px;
+  padding: 20px 15px;
+  justify-content: center;
+}
+
+.textbox {
+  line-height: 24px;
+  width: 420px;
+}
+
+.btn {
+  font-size: 24px;
+  font-weight: bold;
+  padding: 10px;
+}
